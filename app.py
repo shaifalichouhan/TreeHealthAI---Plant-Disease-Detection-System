@@ -243,11 +243,5 @@ def internal_error(e):
 
 # Run app
 if __name__ == '__main__':
-    print("\n" + "=" * 60)
-    print("🌳 TREEHEALTHAI - STARTING SERVER")
-    print("=" * 60)
-    print("📡 Server will run at: http://127.0.0.1:5000")
-    print("🌐 Open this URL in your browser")
-    print("=" * 60 + "\n")
-    
-    app.run(debug=True, host='0.0.0.0', port=5000)
+    port = int(os.environ.get('PORT', 5000))
+    app.run(debug=False, host='0.0.0.0', port=port)

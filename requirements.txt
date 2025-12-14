@@ -5,4 +5,4 @@ numpy
 opencv-python
 werkzeug
 gdown
-gdown keras-preprocessing
+gunicorn
