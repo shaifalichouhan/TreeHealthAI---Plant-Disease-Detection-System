@@ -1,0 +1,268 @@
+{
+  "Apple___Apple_scab": {
+    "disease_name": "Apple Scab",
+    "description": "Fungal disease causing dark, scabby lesions on leaves and fruit",
+    "causes": ["Venturia inaequalis fungus", "Humid weather", "Poor air circulation"],
+    "prevention": ["Remove infected leaves", "Apply fungicides early spring", "Choose resistant varieties"],
+    "treatment": ["Copper-based fungicides", "Neem oil spray", "Prune infected branches"]
+  },
+  "Apple___Black_rot": {
+    "disease_name": "Apple Black Rot",
+    "description": "Fungal disease causing leaf spots and fruit rot",
+    "causes": ["Botryosphaeria obtusa fungus", "Warm wet weather"],
+    "prevention": ["Prune dead wood", "Remove mummified fruit", "Fungicide application"],
+    "treatment": ["Remove infected areas", "Apply fungicides", "Improve sanitation"]
+  },
+  "Apple___Cedar_apple_rust": {
+    "disease_name": "Cedar Apple Rust",
+    "description": "Yellow-orange spots on leaves caused by fungus",
+    "causes": ["Gymnosporangium juniperi-virginianae", "Nearby cedar trees"],
+    "prevention": ["Remove nearby cedar trees", "Resistant varieties", "Fungicide sprays"],
+    "treatment": ["Fungicide application", "Remove infected leaves"]
+  },
+  "Apple___healthy": {
+    "disease_name": "Healthy Apple Plant",
+    "description": "No disease detected. Plant is in excellent condition",
+    "causes": ["N/A"],
+    "prevention": ["Continue good practices", "Regular monitoring"],
+    "treatment": ["No treatment needed"]
+  },
+  "Blueberry___healthy": {
+    "disease_name": "Healthy Blueberry Plant",
+    "description": "Plant shows no signs of disease",
+    "causes": ["N/A"],
+    "prevention": ["Maintain current care", "Monitor regularly"],
+    "treatment": ["No treatment required"]
+  },
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "disease_name": "Cherry Powdery Mildew",
+    "description": "White powdery fungal growth on leaves",
+    "causes": ["Podosphaera clandestina fungus", "High humidity"],
+    "prevention": ["Good air circulation", "Resistant varieties", "Sulfur sprays"],
+    "treatment": ["Fungicide application", "Remove infected parts"]
+  },
+  "Cherry_(including_sour)___healthy": {
+    "disease_name": "Healthy Cherry Plant",
+    "description": "No disease symptoms present",
+    "causes": ["N/A"],
+    "prevention": ["Continue preventive care", "Regular inspection"],
+    "treatment": ["No treatment needed"]
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "disease_name": "Corn Gray Leaf Spot",
+    "description": "Rectangular gray lesions on leaves",
+    "causes": ["Cercospora zeae-maydis fungus", "Warm humid conditions"],
+    "prevention": ["Crop rotation", "Resistant hybrids", "Residue management"],
+    "treatment": ["Fungicide application", "Remove infected debris"]
+  },
+  "Corn_(maize)___Common_rust_": {
+    "disease_name": "Corn Common Rust",
+    "description": "Reddish-brown pustules on leaves",
+    "causes": ["Puccinia sorghi fungus", "Moderate temperatures"],
+    "prevention": ["Resistant hybrids", "Early planting", "Fungicides"],
+    "treatment": ["Foliar fungicides", "Remove infected plants"]
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "disease_name": "Northern Corn Leaf Blight",
+    "description": "Long gray-green lesions on leaves",
+    "causes": ["Exserohilum turcicum fungus", "Cool wet weather"],
+    "prevention": ["Crop rotation", "Resistant varieties", "Timely planting"],
+    "treatment": ["Fungicide sprays", "Destroy crop residue"]
+  },
+  "Corn_(maize)___healthy": {
+    "disease_name": "Healthy Corn Plant",
+    "description": "No disease detected in corn plant",
+    "causes": ["N/A"],
+    "prevention": ["Good agricultural practices", "Regular monitoring"],
+    "treatment": ["No treatment required"]
+  },
+  "Grape___Black_rot": {
+    "disease_name": "Grape Black Rot",
+    "description": "Brown spots on leaves and mummified fruit",
+    "causes": ["Guignardia bidwellii fungus", "Warm wet weather"],
+    "prevention": ["Remove mummified berries", "Prune for airflow", "Fungicides"],
+    "treatment": ["Fungicide sprays", "Destroy infected material"]
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "disease_name": "Grape Black Measles",
+    "description": "Tiger stripe pattern on leaves, wood disease",
+    "causes": ["Multiple fungi", "Wood wounds", "Stress"],
+    "prevention": ["Avoid wounds", "Proper pruning", "Vineyard sanitation"],
+    "treatment": ["Remove infected vines", "Wound protection"]
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "disease_name": "Grape Leaf Blight",
+    "description": "Brown spots with yellow halos on leaves",
+    "causes": ["Pseudocercospora vitis fungus", "Humid conditions"],
+    "prevention": ["Good air circulation", "Fungicide application", "Sanitation"],
+    "treatment": ["Remove infected leaves", "Apply fungicides"]
+  },
+  "Grape___healthy": {
+    "disease_name": "Healthy Grape Plant",
+    "description": "Grape plant is healthy with no disease",
+    "causes": ["N/A"],
+    "prevention": ["Maintain vineyard hygiene", "Regular inspection"],
+    "treatment": ["No treatment needed"]
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "disease_name": "Citrus Greening Disease",
+    "description": "Devastating bacterial disease causing yellow shoots",
+    "causes": ["Candidatus Liberibacter bacteria", "Asian citrus psyllid vector"],
+    "prevention": ["Control psyllid vectors", "Use certified trees", "Remove infected trees"],
+    "treatment": ["No cure - remove infected trees", "Vector control"]
+  },
+  "Peach___Bacterial_spot": {
+    "disease_name": "Peach Bacterial Spot",
+    "description": "Dark spots on leaves and fruit",
+    "causes": ["Xanthomonas arboricola bacteria", "Wet weather"],
+    "prevention": ["Resistant varieties", "Copper sprays", "Avoid overhead irrigation"],
+    "treatment": ["Copper bactericides", "Prune infected areas"]
+  },
+  "Peach___healthy": {
+    "disease_name": "Healthy Peach Plant",
+    "description": "Peach plant shows no disease symptoms",
+    "causes": ["N/A"],
+    "prevention": ["Continue good practices", "Monitor regularly"],
+    "treatment": ["No treatment required"]
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "disease_name": "Pepper Bacterial Spot",
+    "description": "Small dark spots on leaves and fruit",
+    "causes": ["Xanthomonas bacteria", "Warm humid weather"],
+    "prevention": ["Use certified seeds", "Crop rotation", "Copper sprays"],
+    "treatment": ["Copper bactericides", "Remove infected plants"]
+  },
+  "Pepper,_bell___healthy": {
+    "disease_name": "Healthy Pepper Plant",
+    "description": "Bell pepper plant is healthy",
+    "causes": ["N/A"],
+    "prevention": ["Maintain current practices", "Regular monitoring"],
+    "treatment": ["No treatment needed"]
+  },
+  "Potato___Early_blight": {
+    "disease_name": "Potato Early Blight",
+    "description": "Concentric ring spots on older leaves",
+    "causes": ["Alternaria solani fungus", "Warm humid conditions"],
+    "prevention": ["Crop rotation", "Mulching", "Fungicide application"],
+    "treatment": ["Fungicide sprays", "Remove infected foliage"]
+  },
+  "Potato___Late_blight": {
+    "disease_name": "Potato Late Blight",
+    "description": "Water-soaked lesions on leaves and tubers",
+    "causes": ["Phytophthora infestans", "Cool wet weather"],
+    "prevention": ["Resistant varieties", "Avoid overhead watering", "Fungicides"],
+    "treatment": ["Destroy infected plants", "Copper fungicides"]
+  },
+  "Potato___healthy": {
+    "disease_name": "Healthy Potato Plant",
+    "description": "Potato plant is disease-free",
+    "causes": ["N/A"],
+    "prevention": ["Good agricultural practices", "Regular inspection"],
+    "treatment": ["No treatment required"]
+  },
+  "Raspberry___healthy": {
+    "disease_name": "Healthy Raspberry Plant",
+    "description": "Raspberry plant shows no disease",
+    "causes": ["N/A"],
+    "prevention": ["Continue preventive care", "Monitor regularly"],
+    "treatment": ["No treatment needed"]
+  },
+  "Soybean___healthy": {
+    "disease_name": "Healthy Soybean Plant",
+    "description": "Soybean plant is in good health",
+    "causes": ["N/A"],
+    "prevention": ["Maintain current care routine", "Regular monitoring"],
+    "treatment": ["No treatment required"]
+  },
+  "Squash___Powdery_mildew": {
+    "disease_name": "Squash Powdery Mildew",
+    "description": "White powdery coating on leaves",
+    "causes": ["Erysiphe cichoracearum fungus", "High humidity"],
+    "prevention": ["Good air circulation", "Resistant varieties", "Sulfur sprays"],
+    "treatment": ["Fungicide application", "Remove infected leaves"]
+  },
+  "Strawberry___Leaf_scorch": {
+    "disease_name": "Strawberry Leaf Scorch",
+    "description": "Purple to brown spots on leaves",
+    "causes": ["Diplocarpon earlianum fungus", "Wet conditions"],
+    "prevention": ["Good air circulation", "Fungicide sprays", "Remove old leaves"],
+    "treatment": ["Fungicide application", "Improve drainage"]
+  },
+  "Strawberry___healthy": {
+    "disease_name": "Healthy Strawberry Plant",
+    "description": "Strawberry plant is disease-free",
+    "causes": ["N/A"],
+    "prevention": ["Continue good practices", "Regular inspection"],
+    "treatment": ["No treatment needed"]
+  },
+  "Tomato___Bacterial_spot": {
+    "disease_name": "Tomato Bacterial Spot",
+    "description": "Small dark spots on leaves and fruit",
+    "causes": ["Xanthomonas bacteria", "Warm wet weather"],
+    "prevention": ["Use certified seeds", "Copper sprays", "Crop rotation"],
+    "treatment": ["Copper bactericides", "Remove infected plants"]
+  },
+  "Tomato___Early_blight": {
+    "disease_name": "Tomato Early Blight",
+    "description": "Brown spots with concentric rings on leaves",
+    "causes": ["Alternaria solani fungus", "Warm humid weather"],
+    "prevention": ["Crop rotation", "Mulching", "Fungicide application"],
+    "treatment": ["Fungicide sprays", "Remove infected leaves"]
+  },
+  "Tomato___Late_blight": {
+    "disease_name": "Tomato Late Blight",
+    "description": "Water-soaked lesions leading to plant death",
+    "causes": ["Phytophthora infestans", "Cool wet conditions"],
+    "prevention": ["Resistant varieties", "Good drainage", "Fungicides"],
+    "treatment": ["Destroy infected plants", "Copper fungicides"]
+  },
+  "Tomato___Leaf_Mold": {
+    "disease_name": "Tomato Leaf Mold",
+    "description": "Yellow spots on upper leaf surface, mold below",
+    "causes": ["Passalora fulva fungus", "High humidity"],
+    "prevention": ["Good ventilation", "Lower humidity", "Resistant varieties"],
+    "treatment": ["Fungicide application", "Improve air circulation"]
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "disease_name": "Tomato Septoria Leaf Spot",
+    "description": "Small circular spots with dark borders on leaves",
+    "causes": ["Septoria lycopersici fungus", "Wet weather"],
+    "prevention": ["Crop rotation", "Mulching", "Avoid overhead watering"],
+    "treatment": ["Fungicide sprays", "Remove infected foliage"]
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "disease_name": "Spider Mite Infestation",
+    "description": "Yellow stippling on leaves, fine webbing present",
+    "causes": ["Tetranychus urticae mites", "Hot dry conditions"],
+    "prevention": ["Maintain humidity", "Beneficial insects", "Regular monitoring"],
+    "treatment": ["Miticides", "Insecticidal soap", "Neem oil"]
+  },
+  "Tomato___Target_Spot": {
+    "disease_name": "Tomato Target Spot",
+    "description": "Brown spots with concentric rings on leaves",
+    "causes": ["Corynespora cassiicola fungus", "Warm humid weather"],
+    "prevention": ["Good air circulation", "Crop rotation", "Fungicides"],
+    "treatment": ["Fungicide application", "Remove infected leaves"]
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "disease_name": "Tomato Yellow Leaf Curl Virus",
+    "description": "Yellowing and curling of leaves, stunted growth",
+    "causes": ["Begomovirus", "Whitefly vector"],
+    "prevention": ["Control whiteflies", "Use resistant varieties", "Reflective mulches"],
+    "treatment": ["Remove infected plants", "Vector control"]
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "disease_name": "Tomato Mosaic Virus",
+    "description": "Mottled light and dark green pattern on leaves",
+    "causes": ["Tobamovirus", "Mechanical transmission"],
+    "prevention": ["Use resistant varieties", "Sanitize tools", "Avoid tobacco use"],
+    "treatment": ["Remove infected plants", "No chemical cure"]
+  },
+  "Tomato___healthy": {
+    "disease_name": "Healthy Tomato Plant",
+    "description": "Tomato plant is healthy with no disease",
+    "causes": ["N/A"],
+    "prevention": ["Continue good practices", "Regular monitoring"],
+    "treatment": ["No treatment required"]
+  }
+}

@@ -1,0 +1,8 @@
+flask
+tensorflow
+Pillow
+numpy
+opencv-python
+werkzeug
+gdown
+gdown keras-preprocessing
